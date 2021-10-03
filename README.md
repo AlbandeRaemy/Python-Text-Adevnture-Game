@@ -1,4 +1,4 @@
-# Python-Text-Adevnture-Game
+# Python-Text-Adventure-Game
 
 In this assignment, students are tasked with designing a text-based adventure game (Links to an external site.). This game should utilize the Python essentials covered thus far, including, but not limited to:
 
